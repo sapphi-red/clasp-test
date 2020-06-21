@@ -4,7 +4,7 @@
   "description": "",
   "main": "Code.js",
   "scripts": {
-    "lint": "eslint **/*"
+    "lint": "eslint \"**/*\""
   },
   "author": "sapphi-red",
   "license": "MIT",
